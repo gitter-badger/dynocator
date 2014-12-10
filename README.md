@@ -1,6 +1,8 @@
 dynocator
 =========
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ahsanulhaque/dynocator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A lightweight blog/website engine written in Go
 
 [![wercker status](https://app.wercker.com/status/31c879f3e09f9c126fc1f8b41d6c83cd/s "wercker status")](https://app.wercker.com/project/bykey/31c879f3e09f9c126fc1f8b41d6c83cd)
